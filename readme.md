@@ -1,6 +1,12 @@
 # Choose
 
 This is `choose`, a human-friendly and fast alternative to `cut` and (sometimes) `awk`
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x99a14112C0344A636C57BF7Fc9B4122250d7c5a1'
+quorum: 1
 
 [![`choose` demo](https://asciinema.org/a/315932.png)](https://asciinema.org/a/315932?autoplay=1)
 
